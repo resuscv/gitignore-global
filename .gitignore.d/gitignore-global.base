@@ -1,0 +1,5 @@
+.gitignore.d/gitignore-global
+# If you want to track directories (like /bin) you need to add some
+# content (like an empty file)
+bin/mr
+bin/vcsh
