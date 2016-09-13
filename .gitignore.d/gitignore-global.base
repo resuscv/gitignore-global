@@ -60,10 +60,12 @@ bin/buply
 bin/buply-demo
 bin/mr
 bin/vcsh
+Documents/org/data
 Documents/org/MobileOrg
 Downloads
 Dropbox
 Google\ Drive
+notmuch-mail
 software
 tmp
 vagrant
